@@ -2,7 +2,6 @@
 
 An AI-powered web application that automatically retrieves and analyzes NVIDIA's earnings call transcripts from the last four quarters, extracting key insights using advanced NLP techniques.
 
-🔗 **Live Demo**: [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
 
 ## Overview
 
